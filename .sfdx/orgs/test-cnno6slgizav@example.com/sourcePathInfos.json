@@ -1,0 +1,590 @@
+[
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1529492100547,
+            "changeTime": 1529492100547,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main",
+            "isDirectory": true,
+            "size": 96,
+            "modifiedTime": 1529492100547,
+            "changeTime": 1529492100547,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1529493958556,
+            "changeTime": 1529493958556,
+            "contentHash": "a42b6a815af45973ee4b23554b78328e27298b9f"
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura",
+            "isDirectory": true,
+            "size": 160,
+            "modifiedTime": 1529492590413,
+            "changeTime": 1529492590413,
+            "contentHash": "9bc881e80345b892e0143da85674db08d0116c64",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1529492513132,
+            "changeTime": 1529492513132,
+            "contentHash": "00f9ba9f899b44dda60b00285f637aca8377c60b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.auradoc",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1529492513131,
+            "changeTime": 1529492513131,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp",
+            "isDirectory": false,
+            "size": 849,
+            "modifiedTime": 1529492561300,
+            "changeTime": 1529492561300,
+            "contentHash": "f459c652af2a3b4b125632c5d2cba3a1cfdda555",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1529492513120,
+            "changeTime": 1529492513120,
+            "contentHash": "ad87208ffaea76ec91f317e3d5d806d2d509d13d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.css",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1529492513129,
+            "changeTime": 1529492513129,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.design",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1529492513132,
+            "changeTime": 1529492513132,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.svg",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEdit.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1529492513130,
+            "changeTime": 1529492513130,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditController.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1529492513123,
+            "changeTime": 1529492513123,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditHelper.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1529492513126,
+            "changeTime": 1529492513126,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditRenderer.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactEdit/quickContactEditRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1529492513130,
+            "changeTime": 1529492513130,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1529492433640,
+            "changeTime": 1529492433640,
+            "contentHash": "73fe0c92c7485bfd6b41a5c77fcf9ccd139275eb",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.auradoc",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1529492433639,
+            "changeTime": 1529492433639,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp",
+            "isDirectory": false,
+            "size": 702,
+            "modifiedTime": 1529492481789,
+            "changeTime": 1529492481789,
+            "contentHash": "4e7125f8224a8071a28258f63ae9b7663e644230",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 248,
+            "modifiedTime": 1529492433627,
+            "changeTime": 1529492433627,
+            "contentHash": "ae2544b4b17da9c03ce791fe2b29a2255e38b512",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.css",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1529492433636,
+            "changeTime": 1529492433636,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.design",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1529492433640,
+            "changeTime": 1529492433640,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.svg",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactView.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1529492433638,
+            "changeTime": 1529492433638,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewController.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewController.js",
+            "isDirectory": false,
+            "size": 65,
+            "modifiedTime": 1529492433631,
+            "changeTime": 1529492433631,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewHelper.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1529492433634,
+            "changeTime": 1529492433634,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewRenderer.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactView/quickContactViewRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1529492433637,
+            "changeTime": 1529492433637,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit",
+            "isDirectory": true,
+            "size": 352,
+            "modifiedTime": 1529492590419,
+            "changeTime": 1529492590419,
+            "contentHash": "da50f9eb6cbc0f4491efea8bcc991ef6a3801fda",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.auradoc",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.auradoc",
+            "isDirectory": false,
+            "size": 209,
+            "modifiedTime": 1529492590419,
+            "changeTime": 1529492590419,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp",
+            "isDirectory": false,
+            "size": 1056,
+            "modifiedTime": 1529492764780,
+            "changeTime": 1529492764780,
+            "contentHash": "894bb7afd4a5de9582f1e7b7cf5f520c11bda981",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp-meta.xml",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.cmp-meta.xml",
+            "isDirectory": false,
+            "size": 252,
+            "modifiedTime": 1529492590415,
+            "changeTime": 1529492590415,
+            "contentHash": "54fa2e73c3c25766eff4592a4e1b22f3c43a519d",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.css",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.css",
+            "isDirectory": false,
+            "size": 10,
+            "modifiedTime": 1529492590417,
+            "changeTime": 1529492590417,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.design",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.design",
+            "isDirectory": false,
+            "size": 40,
+            "modifiedTime": 1529492590420,
+            "changeTime": 1529492590420,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.svg",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEdit.svg",
+            "isDirectory": false,
+            "size": 661,
+            "modifiedTime": 1529492590418,
+            "changeTime": 1529492590418,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditController.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditController.js",
+            "isDirectory": false,
+            "size": 133,
+            "modifiedTime": 1529492789026,
+            "changeTime": 1529492789026,
+            "contentHash": "9651e2dde2c273bf0572fee75cbe8de97b3543dc",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditHelper.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditHelper.js",
+            "isDirectory": false,
+            "size": 45,
+            "modifiedTime": 1529492590416,
+            "changeTime": 1529492590416,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditRenderer.js",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/aura/quickContactViewEdit/quickContactViewEditRenderer.js",
+            "isDirectory": false,
+            "size": 50,
+            "modifiedTime": 1529492590418,
+            "changeTime": 1529492590418,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX",
+        {
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX",
+            "isDirectory": true,
+            "size": 320,
+            "modifiedTime": 1529492199632,
+            "changeTime": 1529492199632,
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/objects/Contact/Contact.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5119,
+            "modifiedTime": 1529493958544,
+            "changeTime": 1529493958544,
+            "contentHash": "771b062e2a3f690dd566923eac8021d9d17da049"
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/flexipages/Contact_Record_Page.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 6114,
+            "modifiedTime": 1529493958563,
+            "changeTime": 1529493958563,
+            "contentHash": "0a8d1c46317a18ffd81b0601cef6528088bd9558"
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/objects/Contact",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/objects/Contact",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529493958543,
+            "changeTime": 1529493958543,
+            "contentHash": "661e0d544b605f6d4bf16ac9782ecd625944d391"
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529493958541,
+            "changeTime": 1529493958541,
+            "contentHash": "b37456c4530be810dc040f50da72eda09addfb0a"
+        }
+    ],
+    [
+        "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/flexipages",
+        {
+            "state": "u",
+            "sourcePath": "/Users/rsripada/workarea/sfdx/LCwithDX/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1529493958563,
+            "changeTime": 1529493958563,
+            "contentHash": "32f1b6b4eb2c3f479592c779097b710dcc7020dd"
+        }
+    ]
+]
